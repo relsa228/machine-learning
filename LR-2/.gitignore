@@ -1,0 +1,4 @@
+venv
+*.gz
+notMNIST_large
+.vscode
